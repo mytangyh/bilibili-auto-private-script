@@ -4,6 +4,7 @@
 
 ### **脚本名称**  
 Bilibili稿件自动设置仅自己可见  
+[点击安装](https://github.com/mytangyh/bilibili-auto-private-script/raw/main/script.user.js) 
 
 ### **脚本简介**  
 本脚本用于自动将 Bilibili 稿件管理中心中的所有稿件设置为“仅自己可见”。它通过模拟用户操作，简化了手动点击设置的流程，大幅提升操作效率。脚本支持以下功能：  
